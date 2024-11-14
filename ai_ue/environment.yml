@@ -1,0 +1,9 @@
+name: ai2024
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - notebook=7.2.1
+  - numpy=2.1.0
+  - matplotlib=3.9.2
